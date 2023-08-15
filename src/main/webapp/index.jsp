@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to CICD Jenkins Pipline. <font></h1>
+<h1><font color='red'> Welcome to CICD Jenkins Pipline testing. <font></h1>
 
 <a> I am Ganesh Raut </a>
   
